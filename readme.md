@@ -14,5 +14,8 @@ Alongside building this application, you'll also learn how to:
 - write clean code
 
 
-
+  If  You want to  Dowenlode it and  try to run it->
+  You have to  do the following 
+  1.npm i
+  2.npm run dev
 
