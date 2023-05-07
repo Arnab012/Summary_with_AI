@@ -1,4 +1,4 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
+# Build and Deploy my  Own ChatGPT AI SaaS with React
 
 
 ## Introduction
@@ -17,5 +17,6 @@ Alongside building this application, you'll also learn how to:
   If  You want to  Dowenlode it and  try to run it->
   You have to  do the following 
   1.npm i
+  
   2.npm run dev
 
